@@ -1,4 +1,4 @@
-[Blog](https://mrxn.net/) | [E-Mail](mailto:mrxn.net@gmail.com) | [Github](https://github.com/Mr-xn)
+[My Blog](https://mrxn.net/) | [E-Mail](mailto:mrxn.net@gmail.com) | [Github](https://github.com/Mr-xn)
 
 [![Mr-xn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-xn&show_icons=true&hide_title=true)](https://github.com/Mr-xn)
 
