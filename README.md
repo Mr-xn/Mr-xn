@@ -1,4 +1,7 @@
-### Hi there 👋
+[Blog](https://mrxn.net/) | [E-Mail](mailto:mrxn.net@gmail.com) | [Github](https://github.com/Mr-xn)
+
+[![Mr-xn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-xn&show_icons=true&hide_title=true)](https://github.com/Mr-xn)
+
 
 <!--
 **Mr-xn/Mr-xn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
