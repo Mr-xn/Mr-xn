@@ -1,7 +1,8 @@
 [My Blog](https://mrxn.net/) | [E-Mail](mailto:mrxn.net@gmail.com) | [Github](https://github.com/Mr-xn)
 
 [![Mr-xn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-xn&show_icons=true&&them=&hide_title=false)](https://github.com/Mr-xn)
-
+- [![GitHub Followers](https://img.shields.io/github/followers/Mr-xn?label=follower%20github&style=flat-square)](https://github.com/Mr-xn)
+- <img align='left' src="https://profile-counter.glitch.me/Mr-xn/count.svg" width="200">
 
 <!--
 from https://github.com/anuraghazra/github-readme-stats
