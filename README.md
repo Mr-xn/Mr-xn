@@ -1,11 +1,8 @@
-[![Mr-xn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-xn&show_icons=true&&them=&hide_title=false)](https://github.com/Mr-xn)
 - [![GitHub Followers](https://img.shields.io/github/followers/Mr-xn?label=follower%20github&style=flat-square)](https://github.com/Mr-xn)
-- <img align='left' src="https://profile-counter.glitch.me/Mr-xn/count.svg" width="200">
-![](https://github-profile-trophy.vercel.app/?username=mr-xn&column=7&margin-w=15&margin-h=15)
 <!--
 from https://github.com/anuraghazra/github-readme-stats
 **Mr-xn/Mr-xn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
